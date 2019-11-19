@@ -6,7 +6,7 @@ namespace PlantillaCentroDeSalud
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Prueba GIT");
+            
         }
     }
 }
